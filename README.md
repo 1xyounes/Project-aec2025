@@ -1,14 +1,15 @@
 # 🔥 Project AEGIS — Optimization of Aerial Firefighting Using AI
 
 > **🏆 1ère place — AEC 2025 (Algerian Engineering Competition) — 30 équipes**  
-> Team Robobo — Université Paul Sabatier, Toulouse
+> Team Robobo — ENSTA , Alger 
+
 
 ---
 
 ## 📁 Contenu
 
 ```
-AEGIS_livrable_final/
+Project AEGIS
 ├── README.md                        ← Ce fichier
 ├── rapport_AEC_2025.pdf             ← Rapport technique complet (27 pages)
 ├── presentation_team_robobo.pdf     ← Présentation finale (15 slides)
@@ -131,7 +132,7 @@ YOLOv8 analyse flux vidéo (fire / smoke)
 ## 👥 Équipe
 
 **Team Robobo** — AEC 2025, 2ème Phase Problématique  
-Université Paul Sabatier, Toulouse  
+ENSTA , Alger 
 Commanditaire : Tassili Travail Aérien
 
 ---
