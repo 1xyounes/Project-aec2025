@@ -1,0 +1,5 @@
+{
+  "name": "Project Aegis: Wildfire Simulation v2",
+  "description": "An advanced client-side web application simulating an AI-enhanced system for early wildfire detection and response. This version features dynamic fire spreading influenced by wind and fuel load, AI-powered alert verification using Gemini vision capabilities, environmental controls (wind speed/direction), and an enhanced dashboard with real-time analytics. Users can configure a forest environment, observe sensor networks, and witness AI-driven drone dispatch and automated fire verification.",
+  "requestFramePermissions": []
+}

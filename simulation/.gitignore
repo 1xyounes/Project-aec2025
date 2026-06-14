@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+dist-ssr
+
+# Environment files — NE JAMAIS commit ces fichiers (contiennent des clés API)
+.env
+.env.local
+.env.*.local
+.env.production
+# ↑ .env.example est OK à commit (pas de vraie clé dedans)
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Model weights (trop lourds pour GitHub)
+*.pt
+*.pth
+*.onnx
+*.weights
